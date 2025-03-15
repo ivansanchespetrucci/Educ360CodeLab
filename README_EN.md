@@ -26,7 +26,7 @@ Here are the exercises and projects I've completed or am currently working on:
 - [Exercício 004 - Calculate of salary with income tax and bonus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc004.por)
 - [Exercício 005 - Car rental cost calculation for fixed distances](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc005.por)
 
-### Flowchart Design [Draw IO](https://app.diagrams.net/)
+### Flowchart Design - [Draw IO](https://app.diagrams.net/)
 - [Exercício 001 - Calculate the rectangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc001.drawio)
 - [Exercício 002 - Calculate the triangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc002.drawio)
 - [Exercício 003 - Calculate age in days, hours, minutes and seconds.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc003.drawio)

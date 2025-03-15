@@ -26,7 +26,7 @@ Aqui estão os exercícios e projetos que já concluí ou estou desenvolvendo:
 - [Exercício 004 - Cálculo do salário, IR e bônus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc004.por)
 - [Exercício 005 - Cálculo do custo de aluguel de carro para distâncias fixas](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc005.por)
 
-### Elaboração de fluxograma [Draw IO](https://app.diagrams.net/)
+### Elaboração de fluxograma - [Draw IO](https://app.diagrams.net/)
 - [Exercício 001 - Cálculo da área do retângulo.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc001.drawio)
 - [Exercício 002 - Cálculo da área do triângulo.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc002.drawio)
 - [Exercício 003 - Cálculo da idade em dias, horas e segundos.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc003.drawio)
