@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.0">
+  <diagram name="Página-1" id="bjhu3zyVDLnvNsSxfU65">
+    <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-2" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-5" target="Z9TVlHVPDBwcRvWiJy7N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-5" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;base&lt;/div&gt;&lt;div&gt;altura&lt;/div&gt;&lt;div&gt;area&lt;br&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="170" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-9" target="Z9TVlHVPDBwcRvWiJy7N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;base&lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-10" target="Z9TVlHVPDBwcRvWiJy7N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;altura&lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-11" value="&lt;div&gt;area =&lt;/div&gt;&lt;div&gt;(base * altura) / 2&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-12" target="Z9TVlHVPDBwcRvWiJy7N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-12" value="area" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-13" value="EXERC002 - CALCULATE THE TRIANGLE AREA" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-7" target="Z9TVlHVPDBwcRvWiJy7N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9TVlHVPDBwcRvWiJy7N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z9TVlHVPDBwcRvWiJy7N-11" target="Z9TVlHVPDBwcRvWiJy7N-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
