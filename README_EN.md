@@ -20,18 +20,30 @@ Welcome to my **Educ360** bootcamp study and practice repository! Here, you'll f
 Here are the exercises and projects I've completed or am currently working on:
 
 ### Structured Portuguese
-- [Exercício 001 - Calculate the rectangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc001.por)
-- [Exercício 002 - Calculate the triangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc002.por)
-- [Exercício 003 - Calculate age in days, hours, minutes and seconds.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc003.por)
-- [Exercício 004 - Calculate of salary with income tax and bonus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc004.por)
-- [Exercício 005 - Car rental cost calculation for fixed distances](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc005.por)
+- [Exercise 001 - Calculate the rectangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc001.por)
+- [Exercise 002 - Calculate the triangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc002.por)
+- [Exercise 003 - Calculate age in days, hours, minutes and seconds.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc003.por)
+- [Exercise 004 - Calculate of salary with income tax and bonus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc004.por)
+- [Exercise 005 - Car rental cost calculation for fixed distances](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc005.por)
+- [Exercise 006 - Swap two variables and display final values](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc006.por)
+- [Exercise 007 - Calculate BMI (Body Mass Index) and display status](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc007.por)
+- [Exercise 008 - Calculate salesman payment and display details](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc008.por)
+- [Exercise 009 - Add even and odd numbers until n equals zero](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc009.por)
+- [Exercise 010 - Calculate final investment value and display details](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc010.por)
+- [Exercise 011 - Supermarket checkout simulation](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc011.por)
 
 ### Flowchart Design - [Draw IO](https://app.diagrams.net/)
-- [Exercício 001 - Calculate the rectangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc001.drawio)
-- [Exercício 002 - Calculate the triangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc002.drawio)
-- [Exercício 003 - Calculate age in days, hours, minutes and seconds.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc003.drawio)
-- [Exercício 004 - Calculate of salary with income tax and bonus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc004.drawio)
-- [Exercício 005 - Car rental cost calculation for fixed distances](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc005.drawio)
+- [Exercise 001 - Calculate the rectangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc001.drawio)
+- [Exercise 002 - Calculate the triangle area.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc002.drawio)
+- [Exercise 003 - Calculate age in days, hours, minutes and seconds.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc003.drawio)
+- [Exercise 004 - Calculate of salary with income tax and bonus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc004.drawio)
+- [Exercise 005 - Car rental cost calculation for fixed distances](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc005.drawio)
+- [Exercise 006 - Swap two variables and display final values](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc006.drawio)
+- [Exercise 007 - Calculate BMI (Body Mass Index) and display status](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc007.drawio)
+- [Exercise 008 - Calculate salesman payment and display details](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc008.drawio)
+- [Exercise 009 - Add even and odd numbers until n equals zero](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc009.drawio)
+- [Exercise 010 - Calculate final investment value and display details](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc010.drawio)
+- [Exercise 011 - Supermarket checkout simulation](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc011.drawio)
 
 ---
 

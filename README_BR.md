@@ -25,6 +25,12 @@ Aqui estão os exercícios e projetos que já concluí ou estou desenvolvendo:
 - [Exercício 003 - Cálculo da idade em dias, horas e segundos.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc003.por)
 - [Exercício 004 - Cálculo do salário, IR e bônus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc004.por)
 - [Exercício 005 - Cálculo do custo de aluguel de carro para distâncias fixas](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc005.por)
+- [Exercício 006 - Trocar o valor de duas variáveis e exibir o valor final](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc006.por)
+- [Exercício 007 - Calcular o IMC (Índice de Massa Corporal) e mostrar o status](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc007.por)
+- [Exercício 008 - Calcular o salário de um vendedor e mostrar detalhes](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc008.por)
+- [Exercício 009 - Somar números pares e ímpares até que n seja zero](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc009.por)
+- [Exercício 010 - Calcular o valor final de um investimento e mostrar detalhes](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc010.por)
+- [Exercício 011 - Simulação de caixa de supermercado](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc011.por)
 
 ### Elaboração de fluxograma - [Draw IO](https://app.diagrams.net/)
 - [Exercício 001 - Cálculo da área do retângulo.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc001.drawio)
@@ -32,6 +38,12 @@ Aqui estão os exercícios e projetos que já concluí ou estou desenvolvendo:
 - [Exercício 003 - Cálculo da idade em dias, horas e segundos.](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc003.drawio)
 - [Exercício 004 - Cálculo do salário, IR e bônus](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc004.drawio)
 - [Exercício 005 - Cálculo do custo de aluguel de carro para distâncias fixas](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/exerc005.drawio)
+- [Exercício 006 - Trocar o valor de duas variáveis e exibir o valor final](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc006.drawio)
+- [Exercício 007 - Calcular o IMC (Índice de Massa Corporal) e mostrar o status](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc007.drawio)
+- [Exercício 008 - Calcular o salário de um vendedor e mostrar detalhes](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc008.drawio)
+- [Exercício 009 - Somar números pares e ímpares até que n seja zero](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc009.drawio)
+- [Exercício 010 - Calcular o valor final de um investimento e mostrar detalhes](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc010.drawio)
+- [Exercício 011 - Simulação de caixa de supermercado](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/por/exerc011.drawio)
 
 ---
 
