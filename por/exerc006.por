@@ -17,7 +17,7 @@ programa {
     escreva ("Informe o segundo número: ")
     leia(num2)
 
-    // Changing
+    // Swapping
     num1 = num1 + num2
     num2 = num1 - num2
     num1 = num1 - num2

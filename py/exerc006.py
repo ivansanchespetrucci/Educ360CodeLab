@@ -15,7 +15,7 @@ num1 = 0
 num1 = float(input("Informe o primeiro número: "))
 num2 = float(input("Informe o segundo número:  "))
 
-# Changing
+# Swapping
 num1 = num1 + num2
 num2 = num1 - num2
 num1 = num1 - num2
